@@ -4,8 +4,7 @@ VAR
     
     i ,j,x,y:INTEGER;
     sum:=0;
-    j:=0;
-    m:=0;
+    
 BEGIN
 
 
